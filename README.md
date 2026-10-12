@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kian</h1>
+<h1 align="center">Hi 👋, I'm Kayla</h1>
 <h3 align="center">A passionate software engineering student</h3>
 
 - 🔭 I’m currently working on [A new portfolio website.](https://github.com/kiancurranmahon/portfolioV2)
